@@ -9,7 +9,7 @@ int *p = malloc(sizeof(int));
 
 scanf("%i", p);
 
-*p *= 2;
+*p *= 10;
 
 printf ("%i", *p);
 
