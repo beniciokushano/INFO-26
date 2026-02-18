@@ -2,7 +2,7 @@
 
 int main(){
 
-printf ("\t\t@\n\t@\t\t@\n\t\t\t\t@\n\t\t\t@\n\t\t@\n");
+printf ("AAAAAAAAAAAAAAAAAAAAAAAAAA");
 
 
 
